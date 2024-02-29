@@ -17,6 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.codingninjas.com/studio/profile/nawed_anagnos" target="blank"><img align="center" src="https://cdn-domkm.nitrocdn.com/mUwYjjLfVncWVxfvyxDfCNaTOZLqATYD/assets/images/optimized/rev-bd4b1a4/wp-content/uploads/2021/10/coding-ninjas-logo-white.png" alt="linkedin.com/in/nawed-anagnos" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedin.com/in/nawed-anagnos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/nawed-anagnos" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nawed_alam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nawed_alam" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/nawed_anagnos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nawed_anagnos" height="30" width="40" /></a>
